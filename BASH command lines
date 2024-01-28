@@ -1,0 +1,29 @@
+BASH Command lines;
+
+for help in attributes use man before command,
+example --> man ls
+ls
+echo
+touch
+mkdir
+grep
+man
+pwd
+cd
+mv
+rmdir
+locate
+less 
+compgen
+> 
+cat
+|
+head
+tail 
+chmod
+exit 
+history
+clear 
+cp 
+kill
+sleep
